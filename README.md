@@ -1,7 +1,7 @@
 #Simple api spider write by nodejs
 
 ##Introduction
-ths code is written by javasript ES2015
+this code is written by javasript ES2015
 
 It's a simple practice, just use following package:
 
